@@ -9,6 +9,7 @@ from schemas import UserCreate, UserLogin, UserOut
 from utils import get_password_hash, verify_password
 
 
+
 DATABASE_URL = "postgresql+asyncpg://postgres:saida0512@localhost:5432/notes"
 
 engine = create_async_engine(DATABASE_URL, echo=True)
