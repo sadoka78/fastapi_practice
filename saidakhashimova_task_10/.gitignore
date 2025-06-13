@@ -4,4 +4,3 @@ __pycache__/
 .env
 requirements.txt
 alembic
-.pytest_cache/
