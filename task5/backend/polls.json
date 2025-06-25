@@ -1,0 +1,153 @@
+{
+  "default": {
+    "question": "Ваш любимый фреймворк для бэкенда?",
+    "options": {
+      "fastapi": {
+        "label": "FastAPI",
+        "votes": 1
+      },
+      "django": {
+        "label": "Django",
+        "votes": 1
+      },
+      "flask": {
+        "label": "Flask",
+        "votes": 0
+      },
+      "nodejs": {
+        "label": "Node.js (Express)",
+        "votes": 0
+      }
+    }
+  },
+  "poll2": {
+    "question": "jjfjfjfjfjf",
+    "options": {
+      "option1": {
+        "label": "sss",
+        "votes": 0
+      },
+      "option2": {
+        "label": "aaa",
+        "votes": 0
+      }
+    }
+  },
+  "poll3": {
+    "question": "jjfjfjfjfjf",
+    "options": {
+      "option1": {
+        "label": "sss",
+        "votes": 0
+      },
+      "option2": {
+        "label": "aaa",
+        "votes": 0
+      }
+    }
+  },
+  "poll4": {
+    "question": "jjfjfjfjfjf",
+    "options": {
+      "option1": {
+        "label": "sss",
+        "votes": 1
+      },
+      "option2": {
+        "label": "aaa",
+        "votes": 0
+      }
+    }
+  },
+  "poll5": {
+    "question": "jjfjfjfjfjf",
+    "options": {
+      "option1": {
+        "label": "sss",
+        "votes": 0
+      },
+      "option2": {
+        "label": "aaa",
+        "votes": 0
+      }
+    }
+  },
+  "poll6": {
+    "question": "ы",
+    "options": {
+      "option1": {
+        "label": "ы",
+        "votes": 0
+      },
+      "option2": {
+        "label": "ы",
+        "votes": 0
+      }
+    }
+  },
+  "poll7": {
+    "question": "о",
+    "options": {
+      "option1": {
+        "label": "л",
+        "votes": 0
+      },
+      "option2": {
+        "label": "л",
+        "votes": 0
+      }
+    }
+  },
+  "poll8": {
+    "question": "j",
+    "options": {
+      "option1": {
+        "label": "j",
+        "votes": 0
+      },
+      "option2": {
+        "label": "l",
+        "votes": 0
+      }
+    }
+  },
+  "poll9": {
+    "question": "j",
+    "options": {
+      "option1": {
+        "label": "j",
+        "votes": 0
+      },
+      "option2": {
+        "label": "l",
+        "votes": 0
+      }
+    }
+  },
+  "poll10": {
+    "question": "j",
+    "options": {
+      "option1": {
+        "label": "j",
+        "votes": 0
+      },
+      "option2": {
+        "label": "l",
+        "votes": 0
+      }
+    }
+  },
+  "poll11": {
+    "question": "hdheh",
+    "options": {
+      "option1": {
+        "label": "uddu",
+        "votes": 1
+      },
+      "option2": {
+        "label": "dhdhh",
+        "votes": 0
+      }
+    }
+  }
+}
